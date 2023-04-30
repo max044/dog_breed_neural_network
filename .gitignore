@@ -1,0 +1,4 @@
+Dog_recognition_img.mlmodel
+dog_recognizer_env/
+saved_models/
+torch_nn.ipynb
